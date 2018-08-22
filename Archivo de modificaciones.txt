@@ -1,3 +1,10 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Contreras_Andrea_Persona_1
+
+Bello_Elvira_Persona_2
+
+En el repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/elvi7bello/tarea_colaborativo
+https://github.com/lizette98/tarea_colaborativo
